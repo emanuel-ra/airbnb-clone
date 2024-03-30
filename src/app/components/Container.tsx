@@ -12,7 +12,7 @@ const Container: React.FC<Props> = ({children})=>{
     px:-4
     ">
         {children}
-        </div>;
+    </div>;
 }
 
 export default Container
